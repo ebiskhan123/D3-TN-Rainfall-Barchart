@@ -1,0 +1,16 @@
+.text{
+  font-family: "Verdana";
+}
+.bar{
+  fill: "green";
+}
+
+.value{
+  font-family: "Trebuchet MS";
+  font-size: 14px;
+  fill: #ffff;
+}
+
+.grid{
+  opacity: 0.6;
+}
